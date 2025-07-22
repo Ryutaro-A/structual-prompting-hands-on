@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DNNKou40.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"01. メール作成.md","filePath":"01. メール作成.md"}'),_={name:"01. メール作成.md"};function r(o,s,c,n,p,d){return a(),t("div")}const f=e(_,[["render",r]]);export{m as __pageData,f as default};
